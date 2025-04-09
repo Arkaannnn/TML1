@@ -15,4 +15,8 @@ eval:
 	echo '\n## Confusion Matrix Plot' >> report.md
 	echo '![Confusion Matrix](./Results/model_results.png)' >> report.md
 
+<<<<<<< HEAD
 	cml comment create report.md
+=======
+	cml comment create report.md
+>>>>>>> df995745b37440602b9e4b4eda0690acde266f76
